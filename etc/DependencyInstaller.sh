@@ -393,6 +393,7 @@ _installUbuntuPackages() {
         wget \
         zlib1g-dev
 
+<<<<<<< HEAD
     packages=()
     # Chose Python version
     if _versionCompare $1 -ge 25.04; then
